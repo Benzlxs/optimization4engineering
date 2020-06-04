@@ -1,4 +1,4 @@
-# Optimitzation for engineering
+# Optimitzation techniques for engineering
 
 1. [Introduction](#Introduction)
     1. [optimization](https://benzlxs.github.io/optimization4engineering/introductions)
