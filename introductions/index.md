@@ -1,3 +1,9 @@
+# Introduction
+
+## Background
+Accroding to the type of variable, optimization problem can be categorized into two groups: stochastic optimization and deterministic optimization.
+
+
 ## Reference
 ### Book
 1. Mykel J. Kochenderfer, Tim A. Wheeler - [Algorithms for Optimization](https://mitpress.mit.edu/books/algorithms-optimization)-The MIT Press (2019);
