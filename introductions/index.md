@@ -5,3 +5,4 @@
 ### Online materials
 1. [Nonlinear programming and Convex optimization](http://web.mit.edu/dimitrib/www/Convex_Alg_Chapters.html)
 2. [Optimization in deep learning](https://www.deeplearningbook.org/)
+3. [Mathematical Optimization](https://web.stanford.edu/group/sisl/k12/optimization/#!index.md)
