@@ -4,6 +4,9 @@
 Accroding to the type of variable, optimization problem can be categorized into two groups: stochastic optimization and deterministic optimization.
 
 
+## Feature
+One important feature is to provide web-based interactive interface, which is similar to [codepen](https://codepen.io/), so that make the learning faster.
+
 ## Reference
 ### Book
 1. Mykel J. Kochenderfer, Tim A. Wheeler - [Algorithms for Optimization](https://mitpress.mit.edu/books/algorithms-optimization)-The MIT Press (2019);
