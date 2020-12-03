@@ -5,7 +5,7 @@ Accroding to the type of variable, optimization problem can be categorized into 
 
 
 ## Feature
-One important feature is to provide web-based interactive interface, which is similar to [codepen](https://codepen.io/), so that make the learning faster.
+One important feature is to provide web-based interactive interface, which is similar to [playcode](https://playcode.io/), so that make the learning faster.
 
 ## Reference
 ### Book
