@@ -1,6 +1,11 @@
 # Autograd
 
 ## 1. Background
+Stochastic gradient descent approximations have been widely used in optimizing big machine learning models, and their extremely good performance on machine learning tasks unveils the power of gradient descent. For complited optimization problem, such as complicated machine learning model, the automatical calculation of gradient (Autograd) become necessary and important. Given the loss function, autograd should be able to give the gradient.
+
+
+
+
 Autograd is the basic for grad-based modelling and optimizing methods. The (online lecture)[http://videolectures.net/deeplearning2017_johnson_automatic_differentiation/] clearly explains the autograd techniques. The basic math theory is the differentation chain.
 
 
