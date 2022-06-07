@@ -1,8 +1,7 @@
 # Autograd
 
-## 1. Background
-Stochastic gradient descent approximations have been widely used in optimizing big machine learning models, and their extremely good performance on machine learning tasks unveils the power of gradient descent. For complited optimization problem, such as complicated machine learning model, the automatical calculation of gradient (Autograd) become necessary and important. Given the loss function, autograd should be able to give the gradient.
-
+## 1. Introduction
+Stochastic gradient descent approximations have been widely used in optimizing big machine learning models, and their extremely good performance on machine learning tasks unveils the power of gradient descent. For complited optimization problem, such as complicated machine learning model, the automatical calculation of gradient (Autograd) become necessary and important. Given the loss function, Autograd should be able to give the gradient. I  applied gradient descent alogrihtms to many of my projects, and felt eager to understood how Autograd works. Therefore, I try to go through Autograd with a topy code repo.
 
 
 
